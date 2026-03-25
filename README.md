@@ -1,6 +1,5 @@
 <div align="center">
 
-<!-- Animated typing header -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Aly+Ayman+%F0%9F%91%8B;Data+Scientist+%26+AI+Engineer;ML+%C2%B7+LLMs+%C2%B7+Healthcare+AI;ITI+Data+Science+Track+2026)](https://git.io/typing-svg)
 
 **Data Scientist · AI Engineer**
@@ -20,7 +19,7 @@
 
 ## 🧠 About Me
 
-I'm a data scientist with a background in **pharmacy** and **Marketing data analytics** — two disciplines
+I'm a data scientist with a background in **pharmacy** and **data analytics** — two disciplines
 that trained me to think in systems, prioritize precision, and work with high-stakes data.
 
 I hold an **Academic Diploma in Data Science from Cairo University (GPA 3.78 / A)** and am
@@ -32,7 +31,7 @@ I've built end-to-end ML pipelines achieving **92.6% recall** on clinical classi
 automated complex workflows with Python AI agents achieving **87% time reduction**,
 and analyzed **10,000+ orders across 80+ countries** to inform executive strategy.
 
-My focus: **ML, LLMs · Arabic NLP · Healthcare AI Applications · Agentic AI** —
+My focus: **ML · LLMs · Arabic NLP · Healthcare AI · Agentic AI** —
 where the most impactful and underserved problems live.
 
 > 💡 *From prescriptions to predictions — I follow the data.*
@@ -124,6 +123,59 @@ where the most impactful and underserved problems live.
 | 🧠 **LLMs & Agentic AI** | LLM engineering · AI Agents · RAG systems · Agentic workflows · Prompt engineering |
 | 🌍 **Arabic NLP** | Arabic language processing · Text classification · Multilingual models · Arabic content AI |
 | 🏥 **Healthcare AI** | Clinical ML · Disease classification · Pharmacogenomics · Healthcare informatics |
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🩺 Diabetes Mellitus ML Classification</h3>
+      <p>
+        Cairo University capstone project. Comparative study of 5 ML algorithms on clinical data
+        using a CRISP-DM pipeline with KNN imputation, F2-optimized threshold tuning, and SHAP
+        explainability.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SHAP-8A2BE2?style=flat-square"/>
+        <img src="https://img.shields.io/badge/CRISP--DM-blue?style=flat-square"/>
+      </p>
+      <p>
+        🎯 <strong>92.6% Recall</strong> &nbsp;·&nbsp;
+        📉 <strong>75% fewer missed diagnoses</strong> &nbsp;·&nbsp;
+        🏅 <strong>Grade A</strong>
+      </p>
+      <a href="https://github.com/alyayman2020/diabetes-mellitus-ml-classification">
+        <img src="https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🗄️ Bash DBMS</h3>
+      <p>
+        A fully functional, file-based Database Management System built entirely in Bash with a
+        Zenity GUI. Supports full CRUD operations, 7 SELECT modes, primary key enforcement,
+        datatype validation, and a two-level menu system.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Zenity-GUI-blue?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+      </p>
+      <p>
+        🛠️ <strong>4-module architecture</strong> &nbsp;·&nbsp;
+        🔍 <strong>7 SELECT modes</strong> &nbsp;·&nbsp;
+        ✅ <strong>Full PK validation</strong>
+      </p>
+      <a href="https://github.com/alyayman2020/bash-dbms">
+        <img src="https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
 ---
 
 ## 🎓 Education
