@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated typing header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Aly+Ayman+%F0%9F%91%8B;Data+Scientist+%26+ML+Engineer;LLMs+%C2%B7+NLP+%C2%B7+Healthcare+AI;ITI+Data+Science+Track+2026)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Aly+Ayman+%F0%9F%91%8B;Data+Scientist+%26+AI+Engineer;ML+%C2%B7+LLMs+%C2%B7+Healthcare+AI;ITI+Data+Science+Track+2026)](https://git.io/typing-svg)
 
 **Data Scientist · AI Engineer**
 
