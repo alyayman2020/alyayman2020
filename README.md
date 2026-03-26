@@ -126,16 +126,40 @@ where the most impactful and underserved problems live.
 
 ---
 
+
 ## 🚀 Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3>🛒 E-Commerce DWH & Recommendation Engine</h3>
+      <p>
+        Star Schema data warehouse with 15,000 fact rows, 21 advanced window-function SQL queries,
+        7 KPI dashboards, and a hybrid SQL + ML product recommendation system
+        (Apriori + cosine similarity, 400 recommendations across 100 products).
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Apriori-orange?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Star%20Schema-blue?style=flat-square"/>
+      </p>
+      <p>
+        🗄️ <strong>1 Fact + 6 Dims</strong> &nbsp;·&nbsp;
+        📊 <strong>21 SQL Queries</strong> &nbsp;·&nbsp;
+        🤖 <strong>55% SQL + 45% ML Fusion</strong>
+      </p>
+      <a href="https://github.com/alyayman2020/ecommerce-dwh-analytics-recommendation-engine">
+        <img src="https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td width="50%" valign="top">
       <h3>🩺 Diabetes Mellitus ML Classification</h3>
       <p>
         Cairo University capstone project. Comparative study of 5 ML algorithms on clinical data
-        using a CRISP-DM pipeline with KNN imputation, F2-optimized threshold tuning, and SHAP
-        explainability.
+        using a CRISP-DM pipeline with KNN imputation, F2-optimized threshold tuning,
+        and SHAP explainability. Achieved 92.6% recall — 75% fewer missed diagnoses.
       </p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -152,12 +176,37 @@ where the most impactful and underserved problems live.
         <img src="https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white"/>
       </a>
     </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏭 Supplier Quality Analysis</h3>
+      <p>
+        End-to-end supply chain quality audit across suppliers, products, and manufacturing
+        plants. Identified high-defect categories (Mechanical & Packaging), flagged the
+        Detroit plant as highest-risk, and produced an interactive Tableau dashboard
+        for executive-level exploration.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square"/>
+      </p>
+      <p>
+        🔍 <strong>EDA + Statistical Analysis</strong> &nbsp;·&nbsp;
+        📊 <strong>Interactive Tableau Dashboard</strong> &nbsp;·&nbsp;
+        📄 <strong>Executive Report</strong>
+      </p>
+      <a href="https://github.com/alyayman2020/supplier-quality-analysis-report">
+        <img src="https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white"/>
+      </a>
+    </td>
     <td width="50%" valign="top">
       <h3>🗄️ Bash DBMS</h3>
       <p>
-        A fully functional, file-based Database Management System built entirely in Bash with a
-        Zenity GUI. Supports full CRUD operations, 7 SELECT modes, primary key enforcement,
-        datatype validation, and a two-level menu system.
+        A fully functional, file-based Database Management System built entirely in Bash
+        with a Zenity GUI. Supports full CRUD operations, 7 SELECT modes, primary key
+        enforcement, datatype validation, and a clean 4-module architecture.
       </p>
       <p>
         <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/>
